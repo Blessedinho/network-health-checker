@@ -1,0 +1,31 @@
+==================================================
+            NETWORK HEALTH CHECK REPORT           
+==================================================
+
+[1] Server Information
+----------------------
+Hostname:     BLESSED
+Current User: oem
+Date and Time: Mon Jun  8 11:31:45 AM BST 2026
+
+[2] Network Information
+-----------------------
+IP Address:      192.168.1.105
+Default Gateway: 192.168.1.1
+DNS Server:      127.0.0.53
+
+[3] Internet Connectivity Check
+-------------------------------
+Internet Connectivity: UP
+
+[4] DNS Resolution Check
+------------------------
+DNS Resolution: WORKING
+
+[5] Website Availability Check
+------------------------------
+google.com : UP
+github.com : UP
+amazon.com : DOWN
+
+==================================================
